@@ -1,0 +1,12 @@
+Commit - Syzdawane na Book - 11;37
+Commit - Syzdawane na Castel - 11;38
+Commit - Syzdawane na River - 11;39
+Commit - Promenqne na Book w tb1 - 11;47
+Commit - Promenqne na Castel w tb1 - 11;50
+Commit - Promenqne na Rier w tb1 - 11;51
+Commit - Promenqne na Book w tb2 - 11;54
+Commit - Promenqne na Castel w tb2 - 11;55
+Commit - Promenqne na Rier w tb2 - 11;56
+Commit - Merge Test of Branch in main - 11;57
+Commit - Delete Test of Branch 1 - 11;59
+Commit - 
